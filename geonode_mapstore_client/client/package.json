@@ -34,7 +34,7 @@
   "geonode": {
     "devServer": {
       "host": "localhost",
-      "proxyTargetHost": "localhost:8000",
+      "proxyTargetHost": "moesandbox.orbica.world",
       "protocol": "http"
     }
   },
